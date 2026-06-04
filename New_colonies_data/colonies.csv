@@ -1,0 +1,166 @@
+region,site,colony_id,species,type,tag_date,dead,dead_date,project,location,notes,no
+Las Perlas,Contadora,155,Pc.,T1,4/1/2022,NA,NA,NSF,North RRR transect,"small colony-Apr 2023, very small but alive Jan-24",85
+Las Perlas,Contadora,156,Pc.,T1,4/1/2022,NA,NA,NSF,North RRR transect,NA,86
+Las Perlas,Contadora,157,Pc.,T1,4/1/2022,NA,NA,NSF,North RRR transect,sequencing failed,87
+Las Perlas,Contadora,158,Pl.,T3,4/1/2022,NA,NA,NSF,North RRR transect,"Looks like Pc. to me Jan-24, anchor damage",88
+Las Perlas,Contadora,159,Pc.,T1,4/1/2022,yes,1/1/2024,NSF,North RRR transect,Looks like P verrucosa to me not Pg? and dead,89
+Las Perlas,Contadora,165,Pc.,T1,4/1/2022,NA,NA,NSF,North RRR transect,mixed morphs,90
+Las Perlas,Contadora,166,Pc.,T1,4/1/2022,NA,NA,NSF,North RRR transect,NA,91
+Las Perlas,Contadora,167,Pl.,T3,4/1/2022,yes,12/1/2023,NSF,North RRR transect,algae growth-Apr2023,92
+Las Perlas,Contadora,168,Pc.,T1,4/1/2022,NA,NA,NSF,North RRR transect,NA,93
+Las Perlas,Contadora,169,Pc.,T1,4/1/2022,NA,NA,NSF,North RRR transect,mixed morphs,94
+Las Perlas,Mogo Mogo,175,Pl.,T3,4/1/2022,yes,1/1/2024,NSF,Right RRR transect,NA,111
+Las Perlas,Mogo Mogo,176,Pc.,T1,4/1/2022,NA,NA,NSF,Right RRR transect,cannot find,112
+Las Perlas,Mogo Mogo,177,Pc.,T1,4/1/2022,NA,NA,NSF,Right RRR transect,pvc loose,113
+Las Perlas,Mogo Mogo,178,Pc.,T1,4/1/2022,NA,NA,NSF,Right RRR transect,NA,114
+Las Perlas,Mogo Mogo,179,Pl.,T3,4/1/2022,NA,NA,NSF,Right RRR transect,"pvc loose, mixed types - not sampled Dec 23",115
+Las Perlas,Saboga,185,Pc.,T1,4/1/2022,NA,NA,NSF,Along RRR transect,NA,137
+Las Perlas,Saboga,186,Pc.,T1,4/1/2022,NA,NA,NSF,Along RRR transect,algae growth-Apr2023,138
+Las Perlas,Saboga,187,Pc.,T1,4/1/2022,NA,NA,NSF,Along RRR transect,poles lost Dec-23,139
+Las Perlas,Saboga,188,Pc.,T1,4/1/2022,NA,NA,NSF,Along RRR transect,"poles lost  Dec-23, algae growth-Apr2023",140
+Las Perlas,Saboga,189,Pl.,T3,4/1/2022,NA,NA,NSF,Along RRR transect,algae growth-Apr2023,141
+Las Perlas,Saboga,195,NA,NA,4/1/2022,NA,NA,NSF,Glynn plot,sequencing failed,GLYNN
+Las Perlas,Saboga,196,Pc.,T1,4/1/2022,NA,NA,NSF,Glynn plot,NA,GLYNN
+Las Perlas,Saboga,197,Pc.,T1,4/1/2022,NA,NA,NSF,Glynn plot,pvc lost -gone,GLYNN
+Las Perlas,Saboga,198,Pc.,T1,4/1/2022,NA,NA,NSF,Glynn plot,NA,GLYNN
+Las Perlas,Saboga,199,Pc.,T1,4/1/2022,NA,NA,NSF,Glynn plot,NA,GLYNN
+Las Perlas,Mogo Mogo,200,Pc.,T1,4/1/2022,NA,NA,NSF,Right RRR transect,"mixed colony, mixed types",116
+Las Perlas,Mogo Mogo,201,Pc.,T1,4/1/2022,NA,NA,NSF,Right RRR transect,NA,117
+Las Perlas,Mogo Mogo,202,Pc.,T1,4/1/2022,NA,NA,NSF,Right RRR transect,NA,118
+Las Perlas,Mogo Mogo,203,Pc.,T1,4/1/2022,NA,NA,NSF,Right RRR transect,NA,119
+Las Perlas,Mogo Mogo,204,Pc.,T1,4/1/2022,NA,NA,NSF,Right RRR transect,NA,120
+Coiba,Canales de Afuera,205,Pl.,T3,4/1/2022,NA,NA,NSF,Parallel to island next to RRR 742,NA,13
+Coiba,Canales de Afuera,206,Pc.,T1,4/1/2022,NA,NA,NSF,Parallel to island next to RRR 742,NA,14
+Coiba,Canales de Afuera,207,Pl.,T3,4/1/2022,NA,NA,NSF,Parallel to island next to RRR 742,NA,15
+Coiba,Canales de Afuera,208,Pl.,T3,4/1/2022,NA,NA,NSF,Parallel to island next to RRR 742,NA,16
+Coiba,Canales de Afuera,209,Pc.,T1,4/1/2022,NA,NA,NSF,Parallel to island next to RRR 742,NA,17
+Coiba,Canales de Afuera,210,Pl.,T3,4/1/2022,NA,NA,NSF,Parallel to island next to RRR 742,NA,18
+Coiba,Canales de Afuera,211,Pl.,T3,4/1/2022,NA,NA,NSF,Parallel to island next to RRR 742,NA,19
+Coiba,Canales de Afuera,212,Pc.,T1,4/1/2022,NA,NA,NSF,Parallel to island next to RRR 742,NA,20
+Coiba,Canales de Afuera,213,Pl.,T3,4/1/2022,NA,NA,NSF,Parallel to island next to RRR 742,NA,21
+Coiba,Canales de Afuera,214,Pl.,T3,4/1/2022,NA,NA,NSF,Parallel to island next to RRR 742,algae growth-Apr2023,22
+Coiba,Machete,215,Pc.,T1,4/1/2022,NA,NA,NSF,Next to islote and porites colony,NA,47
+Coiba,Machete,216,Pl.,T3,4/1/2022,NA,NA,NSF,Next to islote and porites colony,NA,48
+Coiba,Machete,217,Pc.,T1,4/1/2022,NA,NA,NSF,Next to islote and porites colony,NA,49
+Coiba,Machete,218,Pl.,T3,4/1/2022,NA,NA,NSF,Next to islote and porites colony,mixed types,50
+Coiba,Machete,219,Pc.,T1,4/1/2022,yes,12/1/2023,NSF,Next to islote and porites colony,NA,51
+Coiba,Machete,220,Pl.,T3,4/1/2022,NA,NA,NSF,Next to islote and porites colony,NA,52
+Coiba,Machete,221,Pl.,T3,4/1/2022,NA,NA,NSF,Next to islote and porites colony,NA,53
+Coiba,Machete,222,Pc.,T1,4/1/2022,NA,NA,NSF,Next to islote and porites colony,NA,54
+Coiba,Machete,223,Pl.,T3,4/1/2022,NA,NA,NSF,Next to islote and porites colony,NA,55
+Coiba,Machete,224,Pl.,T3,4/1/2022,NA,NA,NSF,Next to islote and porites colony,pvc lost-gone,56
+Coiba,Granito de Oro,225,Pl.,T3,4/1/2022,NA,NA,NSF,GPS granito B,NA,37
+Coiba,Granito de Oro,226,Pc.,T1,4/1/2022,NA,NA,NSF,GPS granito B,NA,38
+Coiba,Granito de Oro,227,Pl.,T3,4/1/2022,NA,NA,NSF,GPS granito B,small colony-Apr 2023,39
+Coiba,Granito de Oro,228,Pl.,T3,4/1/2022,NA,NA,NSF,GPS granito B,small colony-Apr 2023,40
+Coiba,Granito de Oro,229,Pl.,T3,4/1/2022,NA,NA,NSF,GPS granito B,small colony-Apr 2023,41
+Coiba,Granito de Oro,230,Pl.,T3,4/1/2022,NA,NA,NSF,GPS granito B,small colony-Apr 2023,42
+Coiba,Granito de Oro,231,Pc.,T1,4/1/2022,NA,NA,NSF,GPS granito B,NA,43
+Coiba,Granito de Oro,232,Pl.,T3,4/1/2022,NA,NA,NSF,GPS granito B,NA,44
+Coiba,Granito de Oro,233,Pc.,T1,4/1/2022,NA,NA,NSF,GPS granito B,NA,45
+Coiba,Granito de Oro,234,Pc.,T1,4/1/2022,NA,NA,NSF,GPS granito B,NA,46
+Las Perlas,Contadora,700,Pc.,T1,10/1/2020,NA,NA,RRR,RRR transect,NA,95
+Las Perlas,Contadora,701,Pl.,T3,10/1/2020,yes,1/1/2024,RRR,RRR transect,Half dead (02/2023),96
+Las Perlas,Contadora,702,Pl.,T3,10/1/2020,yes,12/1/2023,RRR,RRR transect,NA,97
+Las Perlas,Contadora,703,Pl.,T3,10/1/2020,yes,1/1/2024,RRR,RRR transect,NA,98
+Las Perlas,Contadora,704,Pc.,T1,10/1/2020,NA,NA,RRR,RRR transect,NA,99
+Las Perlas,Contadora,705,Pl.,T3,10/1/2020,yes,1/1/2024,RRR,RRR transect,Damaged (02/2023),100
+Las Perlas,Contadora,706,Pc.,T1,10/1/2020,NA,NA,RRR,RRR transect,Small (02/2023),101
+Las Perlas,Contadora,707,Pl.,T3,10/1/2020,yes,12/1/2023,RRR,RRR transect,NA,102
+Las Perlas,Contadora,708,Pl.,T3,10/1/2020,yes,1/1/2024,RRR,RRR transect,NA,103
+Las Perlas,Contadora,709,Pl.,T3,10/1/2020,yes,12/1/2023,RRR,RRR transect,NA,104
+Las Perlas,Contadora,710,Pl.,T3,10/1/2020,yes,1/1/2024,RRR,RRR transect,NA,105
+Las Perlas,Saboga,711,Pl.,T3,10/1/2020,gone,NA,RRR,RRR transect,NA,142
+Las Perlas,Saboga,712,Pl.,T3,10/1/2020,gone,NA,RRR,RRR transect,All gone,143
+Las Perlas,Saboga,713,Pl.,T3,10/1/2020,NA,NA,RRR,RRR transect,sequencing failed / identified morphologically,144
+Las Perlas,Saboga,714,Pl.,T3,10/1/2020,yes,1/1/2024,RRR,RRR transect,NA,145
+Las Perlas,Saboga,715,Pl.,T3,10/1/2020,yes,1/1/2024,RRR,RRR transect,All gone,146
+Las Perlas,Saboga,716,Pl.,T3,10/1/2020,yes,1/1/2024,RRR,RRR transect,Damaged (02/2023),147
+Las Perlas,Saboga,717,Pl.,T3,10/1/2020,yes,1/1/2024,RRR,RRR transect,Almost all gone,148
+Las Perlas,Saboga,718,Pl.,T3,10/1/2020,gone,NA,RRR,RRR transect,All gone,149
+Las Perlas,Saboga,719,Pl.,T3,10/1/2020,yes,12/1/2023,RRR,RRR transect,All gone,150
+Las Perlas,Saboga,720,Pc.,T1,10/1/2020,NA,NA,RRR,RRR transect,NA,151
+Las Perlas,Saboga,721,Pl.,T3,10/1/2020,yes,1/1/2024,RRR,RRR transect,NA,152
+Las Perlas,Mogo Mogo,722,Pl.,T3,10/1/2020,yes,1/1/2024,RRR,RRR transect,NA,121
+Las Perlas,Mogo Mogo,723,Pl.,T3,10/1/2020,yes,1/1/2024,RRR,RRR transect,NA,122
+Las Perlas,Mogo Mogo,724,Pc.,T1,10/1/2020,NA,NA,RRR,RRR transect,Multiple colonies mixed,123
+Las Perlas,Mogo Mogo,725,Pc.,T1,10/1/2020,NA,NA,RRR,RRR transect,NA,124
+Las Perlas,Mogo Mogo,726,Pl.,T3,10/1/2020,yes,12/1/2023,RRR,RRR transect,Very small (02/2023),125
+Las Perlas,Mogo Mogo,727,Pl.,T3,10/1/2020,yes,1/1/2024,RRR,RRR transect,NA,126
+Las Perlas,Mogo Mogo,728,Pc.,T1,10/1/2020,NA,NA,RRR,RRR transect,"Mix of Pl. and Pc., Jan-24 not sure which colony?",127
+Las Perlas,Mogo Mogo,729,Pc.,T1,10/1/2020,NA,NA,RRR,RRR transect,NA,128
+Las Perlas,Mogo Mogo,730,Pc.,T1,10/1/2020,NA,NA,RRR,RRR transect,NA,129
+Las Perlas,Mogo Mogo,731,Pl.,T3,10/1/2020,yes,12/1/2023,RRR,RRR transect,NA,130
+Las Perlas,Mogo Mogo,732,Pl.,T3,10/1/2020,nearly,1/1/2024,RRR,RRR transect,"tag lost Dec 23, some alive but mostly dead",131
+Coiba,Canales de Afuera,733,Pc.,T1,10/1/2020,NA,NA,RRR,RRR transect,NA,23
+Coiba,Canales de Afuera,734,Pc.,T1,10/1/2020,NA,NA,RRR,RRR transect,NA,24
+Coiba,Canales de Afuera,735,Pc.,T1,10/1/2020,NA,NA,RRR,RRR transect,NA,25
+Coiba,Canales de Afuera,736,Pc.,T1,10/1/2020,NA,NA,RRR,RRR transect,NA,26
+Coiba,Canales de Afuera,737,Pc.,T1,10/1/2020,NA,NA,RRR,RRR transect,NA,27
+Coiba,Canales de Afuera,738,Pl.,T3,10/1/2020,NA,NA,RRR,RRR transect,NA,28
+Coiba,Canales de Afuera,739,Pc.,T1,10/1/2020,NA,NA,RRR,RRR transect,Small (02/2023),29
+Coiba,Canales de Afuera,740,Pl.,T3,10/1/2020,NA,NA,RRR,RRR transect,Damaged (02/2023),30
+Coiba,Canales de Afuera,741,Pl.,T3,10/1/2020,NA,NA,RRR,RRR transect,NA,31
+Coiba,Canales de Afuera,742,Pc.,T1,10/1/2020,NA,NA,RRR,RRR transect,NA,32
+Coiba,Canales de Afuera,743,Pc.,T1,10/1/2020,NA,NA,RRR,RRR transect,NA,33
+Coiba,Bahia Damas,744,Pc.,T1,10/1/2020,NA,NA,RRR,RRR transect,NA,1
+Coiba,Bahia Damas,745,Pc.,T1,10/1/2020,NA,NA,RRR,RRR transect,sequencing failed / identified morphologically,2
+Coiba,Bahia Damas,746,Pc.,T1,10/1/2020,NA,NA,RRR,RRR transect,NA,3
+Coiba,Bahia Damas,747,Pc.,T1,10/1/2020,NA,NA,RRR,RRR transect,sequencing failed / identified morphologically,4
+Coiba,Bahia Damas,748,Pc.,T1,10/1/2020,NA,NA,RRR,RRR transect,NA,5
+Coiba,Bahia Damas,749,Pc.,T1,10/1/2020,NA,NA,RRR,RRR transect,NA,6
+Coiba,Bahia Damas,750,Pc.,T1,10/1/2020,NA,NA,RRR,RRR transect,NA,7
+Coiba,Bahia Damas,751,Pc.,T1,10/1/2020,NA,NA,RRR,RRR transect,NA,8
+Coiba,Bahia Damas,752,Pc.,T1,10/1/2020,NA,NA,RRR,RRR transect,NA,9
+Coiba,Bahia Damas,753,Pc.,T1,10/1/2020,NA,NA,RRR,RRR transect,NA,10
+Coiba,Bahia Damas,754,Pc.,T1,10/1/2020,NA,NA,RRR,RRR transect,NA,11
+Coiba,Uvas,755,Pc.,T1,10/1/2020,NA,NA,RRR,RRR transect,sequencing failed / identified morphologically,67
+Coiba,Uvas,756,Pc.,T1,10/1/2020,NA,NA,RRR,RRR transect,NA,68
+Coiba,Uvas,757,Pl.,T3,10/1/2020,NA,NA,RRR,RRR transect,NA,69
+Coiba,Uvas,758,Pl.,T3,10/1/2020,NA,NA,RRR,RRR transect,NA,70
+Coiba,Uvas,759,Pc.,T1,10/1/2020,NA,NA,RRR,RRR transect,NA,71
+Coiba,Uvas,760,Pc.,T1,10/1/2020,NA,NA,RRR,RRR transect,NA,72
+Coiba,Uvas,761,Pc.,T1,10/1/2020,NA,NA,RRR,RRR transect,NA,73
+Coiba,Uvas,762,Pc.,T1,10/1/2020,NA,NA,RRR,RRR transect,NA,74
+Coiba,Uvas,763,Pc.,T1,10/1/2020,NA,NA,RRR,RRR transect,NA,75
+Coiba,Uvas,764,Pc.,T1,10/1/2020,NA,NA,RRR,RRR transect,NA,76
+Coiba,Uvas,765,Pc.,T1,10/1/2020,NA,NA,RRR,RRR transect,Small (02/2023),77
+Coiba,Uvas,766,Pc.,T1,3/1/2021,NA,NA,RRR,RRR transect,NA,78
+Coiba,Bahia Damas,769,Pc.,T1,3/1/2021,NA,NA,RRR,RRR transect,NA,12
+Las Perlas,Saboga,772,Pl.,T3,3/1/2021,yes,1/1/2024,RRR,RRR transect,Very small (02/2023),153
+Las Perlas,Mogo Mogo,773,Pl.,T3,3/1/2021,yes,1/1/2024,RRR,RRR transect,NA,132
+Las Perlas,Contadora,774,Pl.,T3,3/1/2021,yes,12/1/2023,RRR,RRR transect,sequencing failed / identified morphologically,106
+Las Perlas,Mogo Mogo,900,Pc.,T1,2/1/2023,NA,NA,RRR,RRR transect,near 773,133
+Las Perlas,Mogo Mogo,901,Pc.,T1,2/1/2023,NA,NA,RRR,RRR transect,NA,134
+Las Perlas,Mogo Mogo,902,Pc.,T1,2/1/2023,NA,NA,RRR,RRR transect,NA,135
+Las Perlas,Mogo Mogo,903,Pl.,T3,2/1/2023,yes,1/1/2024,RRR,RRR transect,NA,136
+Las Perlas,Contadora,904,Pc.,T1,2/1/2023,NA,NA,RRR,RRR transect,Next to 703,107
+Las Perlas,Contadora,906,Pc.,T1,2/1/2023,NA,NA,RRR,RRR transect,NA,108
+Las Perlas,Contadora,907,Pc.,T1,2/1/2023,NA,NA,RRR,RRR transect,Near 704 at 40m transect mark,109
+Las Perlas,Contadora,908,Pc.,T1,2/1/2023,NA,NA,RRR,RRR transect,Near 20m transect mark,110
+Las Perlas,Saboga,909,Pc.,T1,2/1/2023,NA,NA,RRR,RRR transect,NA,154
+Las Perlas,Saboga,910,Pc.,T1,2/1/2023,NA,NA,RRR,RRR transect,NA,155
+Las Perlas,Saboga,915,Pc.,T1,2/1/2023,NA,NA,RRR,RRR transect,NA,156
+Las Perlas,Saboga,917,Pc.,T1,2/1/2023,NA,NA,RRR,RRR transect,NA,157
+Las Perlas,Saboga,918,Pl.,T3,2/1/2023,yes,1/1/2024,RRR,RRR transect,NA,158
+Las Perlas,Saboga,919,Pc.,T1,2/1/2023,NA,NA,RRR,RRR transect,NA,159
+Las Perlas,Saboga,920,Pl.,T3,2/1/2023,NA,NA,RRR,RRR transect,NA,160
+Coiba,Canales de Afuera,921,Pl.,T3,2/1/2023,NA,NA,RRR,RRR transect,near 743,34
+Coiba,Canales de Afuera,922,Pl.,T3,2/1/2023,NA,NA,RRR,RRR transect,near 742 (touching),35
+Coiba,Canales de Afuera,923,Pc.,T1,3/1/2021,NA,NA,RRR,RRR transect,Tag lost (768) and replaced by 923,36
+Coiba,Uvas,924,Pl.,T3,2/1/2023,NA,NA,RRR,RRR transect,near 0m,79
+Coiba,Machete,926,Pl.,T3,2/1/2023,NA,NA,RRR,RRR transect,NA,57
+Coiba,Machete,927,Pc.,T1,2/1/2023,NA,NA,RRR,RRR transect,NA,58
+Coiba,Machete,928,Pc.,T1,2/1/2023,NA,NA,RRR,RRR transect,NA,59
+Coiba,Machete,929,Pl.,T3,2/1/2023,NA,NA,RRR,RRR transect,NA,60
+Coiba,Machete,930,Pc.,T1,2/1/2023,NA,NA,RRR,RRR transect,NA,61
+Coiba,Machete,931,Pl.,T3,2/1/2023,NA,NA,RRR,RRR transect,NA,62
+Coiba,Machete,932,Pl.,T3,2/1/2023,NA,NA,RRR,RRR transect,NA,63
+Coiba,Machete,933,Pl.,T3,2/1/2023,NA,NA,RRR,RRR transect,NA,64
+Coiba,Machete,934,Pc.,T1,2/1/2023,NA,NA,RRR,RRR transect,NA,65
+Coiba,Uvas,935,Pl.,T3,2/1/2023,NA,NA,RRR,RRR transect,NA,80
+Coiba,Uvas,936,Pl.,T3,2/1/2023,yes,12/1/2023,RRR,RRR transect,NA,81
+Coiba,Uvas,937,Pl.,T3,2/1/2023,NA,NA,RRR,RRR transect,NA,82
+Coiba,Uvas,938,Pc.,T1,2/1/2023,NA,NA,RRR,RRR transect,NA,83
+Coiba,Uvas,939,Pl.,T3,2/1/2023,yes,12/1/2023,RRR,RRR transect,NA,84
+Coiba,Machete,940,Pc.,T1,2/1/2023,NA,NA,RRR,RRR transect,NA,66
