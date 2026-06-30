@@ -5,7 +5,7 @@
 
 ## Overview
 This repository provides a reproducible workflow for Spatial Mapping from 3D models and Orthomosacs built in Agisoft Metashape.
-The approach combines Python and R scrips using Metashape-API to extract internal locations and convert them to Real World position with transformation matrix.
+The approach combines Python and R scripts using Metashape-API to extract internal locations and convert them to Real World positions with transformation matrix.
 We plotted the real world positions from tagged Coral and Poles and further edited the maps with Inkscape for better aesthetic visualization.
 Here we also acquired positions of new possible tagged coral colonies using the Orthomosaics as a map and plotted them for further and easy search in fieldtrip.
 
