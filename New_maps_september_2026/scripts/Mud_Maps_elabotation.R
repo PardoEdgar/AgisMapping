@@ -33,8 +33,7 @@ Colonies_data <- merge(
 colors <- c(
   "Pc." = "#C19A6B",
   "Pl." = "darkorange",
-  "Poles" = "darkblue",
-  "Caution" = "darkgreen"
+  "Poles" = "darkblue"
 )
 
 #Remove colonies that are from the other transect part. Use: |>  dplyr::filter(!Colony_ID %in% c())
@@ -44,7 +43,6 @@ shapes <- c(
   #"Colonies" = 18,
   "Pc." = 17,
   "Pl." = 18,
-  "Caution" = 15,
   "Poles" = 16
 )
 
@@ -54,10 +52,8 @@ Colonies_data$Type <- case_when(
   grepl("1", Colonies_data$type) &
     grepl("yes", Colonies_data$highlight) ~ "Pc.",
   grepl("3", Colonies_data$type) &
-    grepl("yes", Colonies_data$highlight) ~ "Pl.",
-  grepl("no", Colonies_data$highlight) ~ "Caution",
-  TRUE ~ "Other"
-)
+    grepl("yes", Colonies_data$highlight) ~ "Pl.") 
+
 
 #Create subsets of data by Type (Colonies or letter)
 subset_words <- (Colonies_data[Colonies_data$Type == "Poles", ])
@@ -147,3 +143,4 @@ ggplot(
 
 #Export in pdf with 1500 width - 500 heigh to be modified in InkScape or AdobeIllustrator
 #If having error saving plot, export using Rstudio or change font type and size from geom_text_repel and theme:text
+
