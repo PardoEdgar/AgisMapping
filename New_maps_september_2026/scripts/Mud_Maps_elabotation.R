@@ -14,12 +14,11 @@ clean_basename <- basename |>
 print(clean_basename)
 #Extract Site_name and Transect
 Site_name <- str_split_i(clean_basename, "_", 1)
-Transect <- str_split_i(clean_basename, "_", 2)
 
 
 #Load data
 Colonies_data <- read.csv(file)
-Colonies_data <- Colonies_data |> dplyr::filter(Transect == "25to50")
+Colonies_data <- Colonies_data |> dplyr::filter(Transect == "0to25")
 
 types_path <- "C:/Users/jandr/Downloads/colonies.csv"
 data_types <- read_csv(types_path)
@@ -65,7 +64,7 @@ subset_words <- (Colonies_data[Colonies_data$Type == "Poles", ])
 subset_words <- subset_words[order(subset_words$Colony_ID), ]
 
 #Create subtitle depending on the transect label
-Subtitle_plot <- ifelse(Transect == "0to25", "0-25 m", "25-50 m")
+Subtitle_plot <- ifelse(Colonies_data$Transect == "0to25", "0-25 m", "25-50 m")
 
 title_name <- paste(Site_name, Subtitle_plot)
 
