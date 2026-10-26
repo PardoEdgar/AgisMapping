@@ -35,7 +35,7 @@ Colonies_data$Type <- case_when(
 subset_words <- (Colonies_data[Colonies_data$Type == "Start", ])
 subset_words <- subset_words[order(subset_words$Colony_ID), ]
 
-Subtitle_plot <- ifelse(Colonies_data$Transect == "Transect1", "1", "2")
+Subtitle_plot <- ifelse(Colonies_data$Transect == "Transect1", "Transect 1", "Transect 2")
 
 title_name <- paste(Site_name, Subtitle_plot)
 
